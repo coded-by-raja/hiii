@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rajasakthieswaran G!
+# 👋 Hi there, I'm Rajasakthieswaran G
 
 🎓 A passionate self-taught developer | 💻 Learning JavaScript & Web Development  
 🚀 On a journey to become a full-stack developer  
